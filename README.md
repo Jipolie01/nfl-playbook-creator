@@ -2,7 +2,6 @@
 
 As part of starting a new job I needed to learn PyQt and QML. I started following the NFL 2 years ago and wanted to learn some more about different schemes formations and all that type of stuff. In an effort to make my at-home vacation entertaining thought I make a playdrawer.
 
-
 ## Updates
 
 **22-02-2021**
